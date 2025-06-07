@@ -1,4 +1,4 @@
-const socket = io("https://YOUR-REPLIT-URL-HERE");
+const socket = io("https://pixelmultiplayer.luoyi0710.repl.co");
 
 const canvas = document.getElementById("game");
 const ctx = canvas.getContext("2d");
